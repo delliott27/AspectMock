@@ -14,7 +14,7 @@
            }
        },
     "require": {
-        "php": "8.3.*",
+        "php": "8.2.*",
         "goaop/framework": "^4.0@dev",
         "goaop/parser-reflection": "^4.0@dev",
         "phpunit/phpunit": "~11.0",
